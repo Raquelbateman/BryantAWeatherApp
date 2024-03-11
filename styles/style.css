@@ -26,7 +26,8 @@ body {
 .currentTemp{
     color:#ffffff;
     font-size: 150px;
-    padding-left: 45px;
+    margin-top:10px
+    /* padding-left: 45px; */
     
 }
 
