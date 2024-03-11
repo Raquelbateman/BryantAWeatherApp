@@ -1,0 +1,81 @@
+body {
+    background-image: url("/media/dreamyBackground.jpg");
+    background-size: cover;
+}
+
+.container{
+    background-color: rgba(160, 207, 225, 0.3);
+    height: 570px;
+    width: 1200px;
+    margin: 80px;
+    border: 1.5mm solid #F5D6DE;
+    
+}
+
+#customCard{
+    height: 200px;
+    width:120px;
+    background-color: #ffffff;
+    margin: 28px;
+    border-radius:7%;
+    size: medium;
+    
+   
+}
+
+.currentTemp{
+    color:#ffffff;
+    font-size: 150px;
+    padding-left: 45px;
+    
+}
+
+.cardTemp{
+    display:flex;
+    justify-content: center;
+    color:#B67FD7;
+    font-size: 50px;
+    margin-bottom: 70px;;
+}
+
+.weekDay{
+    margin-top: 7%;
+    color:#B67FD7;
+    font-size: 26px;
+}
+
+.dayOfWeek{
+    font-size: 100px;
+    color:#ffffff;
+    margin-top:1%;
+}
+
+#weatherIcon{
+  margin-top:4%;  
+}
+
+.citySearch{
+    font-size: 40px;
+    color: #ffffff;
+    margin-left:400px;
+    float:right;
+   
+}
+
+#searchBar{
+    background-color: rgba(160, 207, 225, 0.5);
+    border: 1.2mm solid #F5D6DE;
+    margin-top: 4.5px;
+    height:38px;
+    width:305px;
+    float:right;
+    
+}
+
+.highLow{
+    font-size:18px;
+    color:#ffffff;
+    /* margin-left:300px; */
+    padding-top:4px;
+
+}
