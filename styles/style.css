@@ -13,12 +13,13 @@ body {
 }
 
 #customCard{
-    height: 200px;
+    height: 206px;
     width:120px;
     background-color: #ffffff;
-    margin: 28px;
+    margin: 27px;
     border-radius:7%;
     size: medium;
+    margin-top:13px;
     
    
 }
@@ -38,7 +39,7 @@ body {
     justify-content: center;
     color:#B67FD7;
     font-size: 50px;
-    margin-top: 10%;
+    margin-top: -10%;
 }
 
 .weekDay{
@@ -54,7 +55,7 @@ body {
 }
 
 #weatherIcon{
-  margin-top:4%;  
+  margin-top:-2%;  
 }
 
 .citySearch{
@@ -81,3 +82,15 @@ body {
     margin-top: 150px;
 
 }
+
+#currentWeatherIcon{
+    height:300px;
+    width: 300px;
+    margin-top: -85px;
+  
+}
+
+.currentTime{
+    color: #ffffff;
+    font-size:large;
+}   
